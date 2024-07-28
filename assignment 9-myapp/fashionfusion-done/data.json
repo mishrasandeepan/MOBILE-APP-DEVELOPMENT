@@ -1,0 +1,162 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/v1721981325/w_jacket_rcnggi.jpg",
+            "title": "Jacket",
+            "price": 49.99
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981325/w_jeans_zmbdbd.jpg",
+            "title": "Jeans",
+            "price": 39.99
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981318/w_asweater_kn0rpb.jpg",
+            "title": "Acrylic Sweater",
+            "price": 29.99
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981331/w_wcoat_zjm7xs.jpg",
+            "title": "Winter Coat",
+            "price": 99.99
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981331/w_wshirt_p8r0l7.jpg",
+            "title": "Winter Shirts",
+            "price": 59.99
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981330/w_swjacket_ftm5pr.jpg",
+            "title": "Shirts With Jacket",
+            "price": 149.99
+        },
+        {
+            "id": 7,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981326/w_ljacket_peo6cu.jpg",
+            "title": "Leather Jacket",
+            "price": 79.99
+        },
+        {
+            "id": 8,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981324/w_bjeans_s2hpeq.jpg",
+            "title": "Blue Jeans",
+            "price": 49.99
+        },
+        {
+            "id": 9,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981335/w_wsweater_c1t0hx.jpg",
+            "title": "Wool Sweater",
+            "price": 39.99
+        },
+        {
+            "id": 10,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981330/w_parka_finsfw.jpg",
+            "title": "Parka",
+            "price": 129.99
+        },
+        {
+            "id": 11,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981330/w_sweatshirt_jzwgyf.jpg",
+            "title": "Sweatshirt",
+            "price": 19.99
+        },
+        {
+            "id": 12,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981324/w_djacket_zihzsb.jpg",
+            "title": "Denim Jacket",
+            "price": 69.99
+        },
+        {
+            "id": 13,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981325/w_hoodie_pc1267.jpg",
+            "title": "Hoodie",
+            "price": 29.99
+        },
+       
+        {
+            "id": 14,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_jacket_b4ruvs.jpg",
+            "title": "MJacket",
+            "price": 49.99
+        },
+        {
+            "id": 15,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_jeans_ui8pws.jpg",
+            "title": "MJeans",
+            "price": 39.99
+        },
+        {
+            "id": 16,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1721981316/m_asweater_npiyrp.jpg",
+            "title": "MAcrylic Sweater",
+            "price": 29.99
+        },
+        {
+            "id": 17,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_Wcoat_xusyvr.jpg",
+            "title": "MWinter Coat",
+            "price": 99.99
+        },
+        {
+            "id": 18,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_wshirt_cqam60.jpg",
+            "title": "MWinter Shirts",
+            "price": 59.99
+        },
+        {
+            "id": 19,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_swjacket_kvsf39.jpg",
+            "title": "MShirts With Jacket",
+            "price": 149.99
+        },
+        {
+            "id": 20,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/v1721981317/m_ljacket_dblikl.jpg",
+            "title": "MLeather Jacket",
+            "price": 79.99
+        },
+        {
+            "id": 21,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/v1721981316/m_bjeans_e1gfpw.jpg",
+            "title": "MBlue Jeans",
+            "price": 49.99
+        },
+        {
+            "id": 22,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/v1721981317/m_Wcoat_xusyvr.jpg",
+            "title": "MWool Sweater",
+            "price": 39.99
+        },
+        {
+            "id": 23,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981316/m_parka_c2yiwu.jpg",
+            "title": "MParka",
+            "price": 129.99
+        },
+        {
+            "id": 24,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981316/m_sweatshirt_gd1kxm.jpg",
+            "title": "MSweatshirt",
+            "price": 19.99
+        },
+        {
+            "id": 25,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981316/m_djacket_wxxhu3.jpg",
+            "title": "MDenim Jacket",
+            "price": 69.99
+        },
+        {
+            "id": 26,
+            "image": "https://res.cloudinary.com/dhzpbywd9/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721981317/m_hoodie_flywzc.jpg",
+            "title": "MHoodie",
+            "price": 29.99
+        }
+
+    ]
+}
